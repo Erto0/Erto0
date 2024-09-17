@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me
+- I am a freshman at Bilkent University studying Computer Science.
+- 💻 I am interested in competitive programming, data structures and algorithms.
+- 📫 How to reach me: ertugrul9283@gmail.com
 
 <!--
 **Erto0/Erto0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
